@@ -20,7 +20,7 @@
 				"duration":  900,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+					"url": "https://shugga228.github.io/jsonhost/15min.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -44,7 +44,7 @@
 				"duration": 1800,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
+					"url": "https://shugga228.github.io/jsonhost/15min.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -68,7 +68,7 @@
 				"duration": 2700,
 				"videos": [{
 					"videoType": "DASH",
-					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+					"url": "https://shugga228.github.io/jsonhost/15min.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -92,7 +92,7 @@
 				"duration": 3600,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+					"url": "https://shugga228.github.io/jsonhost/15min.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -129,7 +129,7 @@
 				"duration": 900,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+					"url": "https://shugga228.github.io/jsonhost/15min.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -153,7 +153,7 @@
 				"duration": 1800,
 				"videos": [{
 					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
+					"url": "https://shugga228.github.io/jsonhost/15min.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -177,7 +177,7 @@
 				"duration": 2700,
 				"videos": [{
 					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
+					"url": "https://shugga228.github.io/jsonhost/15min.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
