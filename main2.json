@@ -17,7 +17,7 @@
 			"shortDescription": " ",
 			"title": "15 Minute Cardio",
 			"content": {
-				"duration": 100,
+				"duration":  900,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
@@ -41,7 +41,7 @@
 			"shortDescription": " ",
 			"title": "30 Minute Cardio",
 			"content": {
-				"duration": 248,
+				"duration": 1800,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
@@ -65,7 +65,7 @@
 			"shortDescription": " ",
 			"title": "45 Minute Cardio",
 			"content": {
-				"duration": 120,
+				"duration": 2700,
 				"videos": [{
 					"videoType": "DASH",
 					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
@@ -89,7 +89,7 @@
 			"shortDescription": " ",
 			"title": "60 Minute Cardio",
 			"content": {
-				"duration": 98,
+				"duration": 3600,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
@@ -126,7 +126,7 @@
 			"shortDescription": " ",
 			"title": "15 Minute Yoga",
 			"content": {
-				"duration": 713,
+				"duration": 900,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
@@ -150,7 +150,7 @@
 			"shortDescription": " ",
 			"title": "30 Minute Yoga",
 			"content": {
-				"duration": 713,
+				"duration": 1800,
 				"videos": [{
 					"videoType": "HLS",
 					"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
@@ -174,7 +174,7 @@
 			"shortDescription": " ",
 			"title": "45 Minute Yoga",
 			"content": {
-				"duration": 576,
+				"duration": 2700,
 				"videos": [{
 					"videoType": "HLS",
 					"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
