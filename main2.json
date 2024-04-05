@@ -5,7 +5,7 @@
 	"Cardio": [
 	{
 			"longDescription": " ",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
+			"thumbnail": "https://as2.ftcdn.net/v2/jpg/05/45/68/09/1000_F_545680976_Y12Lq3qaIPSCA1zOaR2ONVgjKjw98raA.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -15,7 +15,7 @@
 			],
 			"id": "shortform-roku-streaming-overview",
 			"shortDescription": " ",
-			"title": "Streaming overview",
+			"title": "15 Minute Cardio",
 			"content": {
 				"duration": 100,
 				"videos": [{
@@ -29,7 +29,7 @@
 		},
 		{
 			"longDescription": " ",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
+			"thumbnail": "https://as2.ftcdn.net/v2/jpg/05/45/68/09/1000_F_545680947_5tbZazmJlFz8XL5pLpjWNCTbNpuswQql.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -39,7 +39,7 @@
 			],
 			"id": "shortform-roku-development-overview",
 			"shortDescription": " ",
-			"title": "Roku Development Overview",
+			"title": "30 Minute Cardio",
 			"content": {
 				"duration": 248,
 				"videos": [{
@@ -53,7 +53,7 @@
 		},
 		{
 			"longDescription": " ",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
+			"thumbnail": "https://as2.ftcdn.net/v2/jpg/05/45/68/09/1000_F_545680928_KN4Ahk13UB9wzLJJLiiwAknqdiXZrrwH.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -63,7 +63,7 @@
 			],
 			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
 			"shortDescription": " ",
-			"title": "Enabling Developer Mode",
+			"title": "45 Minute Cardio",
 			"content": {
 				"duration": 120,
 				"videos": [{
@@ -77,7 +77,7 @@
 		},
 			{
 			"longDescription": " ",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
+			"thumbnail": "https://as1.ftcdn.net/v2/jpg/05/45/68/08/1000_F_545680895_7wCr9agAySW5tUD1nCBJVd5VqXIOpQwP.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -87,7 +87,7 @@
 			],
 			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
 			"shortDescription": " ",
-			"title": "Voice Features",
+			"title": "60 Minute Cardio",
 			"content": {
 				"duration": 98,
 				"videos": [{
@@ -113,8 +113,8 @@
 	],
 	
 	"Yoga": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
+			"longDescription": " ",
+			"thumbnail": "https://as2.ftcdn.net/v2/jpg/05/45/68/09/1000_F_545680976_Y12Lq3qaIPSCA1zOaR2ONVgjKjw98raA.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -123,8 +123,8 @@
 				"demo"
 			],
 			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"shortDescription": " ",
+			"title": "15 Minute Yoga",
 			"content": {
 				"duration": 713,
 				"videos": [{
@@ -137,8 +137,8 @@
 			}
 		},
 		{
-			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
+			"longDescription": " ",
+			"thumbnail": "https://as2.ftcdn.net/v2/jpg/05/45/68/09/1000_F_545680947_5tbZazmJlFz8XL5pLpjWNCTbNpuswQql.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -147,8 +147,8 @@
 				"demo"
 			],
 			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-			"shortDescription": "Demonstrates the Roku automated channel testing software.",
-			"title": "Automated channel testing",
+			"shortDescription": " ",
+			"title": "30 Minute Yoga",
 			"content": {
 				"duration": 713,
 				"videos": [{
@@ -161,8 +161,8 @@
 			}
 		},
 		{
-			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+			"longDescription": " ",
+			"thumbnail": "https://as2.ftcdn.net/v2/jpg/05/45/68/09/1000_F_545680928_KN4Ahk13UB9wzLJJLiiwAknqdiXZrrwH.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -171,8 +171,8 @@
 				"demo"
 			],
 			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
-			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
-			"title": "Managing user access",
+			"shortDescription": " ",
+			"title": "45 Minute Yoga",
 			"content": {
 				"duration": 576,
 				"videos": [{
