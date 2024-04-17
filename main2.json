@@ -21,7 +21,7 @@
                 }],
                 "language": "en-us",
                 "dateAdded": "2020-01-15T02:39:11Z",
-                "calories": 0
+                "calories": 500
             }
         },
         {
@@ -42,7 +42,7 @@
                 }],
                 "language": "en-us",
                 "dateAdded": "2020-01-29T02:39:11Z",
-                "calories": 0
+                "calories": 1000
             }
         },
         {
@@ -63,7 +63,7 @@
                 }],
                 "language": "en-us",
                 "dateAdded": "2020-01-29T02:39:11Z",
-                "calories": 0
+                "calories": 1500
             }
         },
         {
@@ -84,7 +84,7 @@
                 }],
                 "language": "en-us",
                 "dateAdded": "2020-01-29T02:39:12Z",
-                "calories": 0
+                "calories": 2000
             }
         }
     ],
@@ -107,7 +107,7 @@
                 }],
                 "language": "en-us",
                 "dateAdded": "2020-01-29T02:39:11Z",
-                "calories": 0
+                "calories": 500
             }
         },
         {
@@ -128,7 +128,7 @@
                 }],
                 "language": "en-us",
                 "dateAdded": "2020-01-29T02:39:10Z",
-                "calories": 0
+                "calories": 1000
             }
         },
         {
@@ -149,7 +149,7 @@
                 }],
                 "language": "en-us",
                 "dateAdded": "2020-01-29T02:39:11Z",
-                "calories": 0
+                "calories": 1500
             }
         }
     ]
